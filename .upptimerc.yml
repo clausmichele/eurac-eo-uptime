@@ -1,10 +1,12 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: clausmichele # Your GitHub organization or username, where this repository lives
+repo: eurac-eo-uptime # The name of this repository
 
 sites:
   - name: openEO
     url: https://openeo.eurac.edu
+    assignees:
+      - clausmichele
   - name: openEO development
     url: https://dev.openeo.eurac.edu/
   - name: STAC API
@@ -29,6 +31,6 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
+user-agent: clausmichele
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
