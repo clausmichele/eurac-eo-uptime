@@ -4,18 +4,20 @@
     "url": "https://openeo.eurac.edu",
     "icon": "https://icons.duckduckgo.com/ip3/openeo.eurac.edu.ico",
     "slug": "open-eo",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 523,
-    "timeDay": 558,
-    "timeWeek": 476,
-    "timeMonth": 523,
-    "timeYear": 523,
-    "dailyMinutesDown": {}
+    "time": 522,
+    "timeDay": 530,
+    "timeWeek": 479,
+    "timeMonth": 522,
+    "timeYear": 522,
+    "dailyMinutesDown": {
+      "2024-06-11": 0
+    }
   },
   {
     "name": "openEO development",
