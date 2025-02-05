@@ -1,7 +1,7 @@
 url: https://stac.eurac.edu/
-status: up
-code: 200
-responseTime: 455
-lastUpdated: 2025-02-04T23:14:48.929Z
+status: down
+code: 500
+responseTime: 353
+lastUpdated: 2025-02-05T11:24:22.449Z
 startTime: 2024-05-22T08:26:39.126Z
 generator: Upptime <https://github.com/upptime/upptime>
