@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/openeo.eurac.edu.ico",
     "slug": "open-eo",
     "status": "up",
-    "uptime": "96.92%",
+    "uptime": "96.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
@@ -120,9 +120,9 @@
     "url": "https://ado.eurac.edu/",
     "icon": "https://icons.duckduckgo.com/ip3/ado.eurac.edu.ico",
     "slug": "ado",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -132,6 +132,7 @@
     "timeMonth": 242,
     "timeYear": 188,
     "dailyMinutesDown": {
+      "2025-05-24": 0,
       "2024-10-22": 24
     }
   }
