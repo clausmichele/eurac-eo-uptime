@@ -1,7 +1,7 @@
 url: https://openeo.eurac.edu
-status: down
-code: 503
-responseTime: 618
-lastUpdated: 2025-09-09T21:48:35.802Z
+status: up
+code: 200
+responseTime: 477
+lastUpdated: 2025-09-09T21:55:47.540Z
 startTime: 2024-05-22T08:26:37.556Z
 generator: Upptime <https://github.com/upptime/upptime>
