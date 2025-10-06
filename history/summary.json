@@ -107,8 +107,8 @@
     "slug": "ado",
     "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "99.77%",
-    "uptimeWeek": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.93%",
     "time": 196,
@@ -117,7 +117,6 @@
     "timeMonth": 272,
     "timeYear": 195,
     "dailyMinutesDown": {
-      "2025-10-05": 3,
       "2025-09-15": 16,
       "2025-09-04": 26,
       "2025-09-03": 25,
